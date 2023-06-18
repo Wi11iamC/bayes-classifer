@@ -1,0 +1,9 @@
+Metric,Value
+Accuracy,0.6866666666666666
+Precision,0.6948313782991202
+Recall,0.6891122576054083
+F1 Score,0.6849725188793065
+True Positive (TP),57.0
+True Negative (TN),46.0
+False Positive (FP),31.0
+False Negative (FN),16.0

@@ -1,0 +1,31 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+
+# Logs and data files
+*.log
+*.json
+*.npy
+
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+
+# IDE specific files
+.vscode/
+*.pydevproject
+*.project
+*.settings/
+*.tmproj
+
+# Other generated files
+*.swp
+.DS_Store
